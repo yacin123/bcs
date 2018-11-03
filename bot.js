@@ -89,7 +89,7 @@ client.on('message', message => {
 });
 
 client.on('ready', () => { //playing
-    client.user.setGame(`**#North Network 1k**`,'https://www.twitch.tv/clo_wiin');
+    client.user.setGame(`Oreo`,'https://www.twitch.tv/clo_wiin');
     client.user.setStatus('Online')
 });
 
